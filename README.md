@@ -3,6 +3,12 @@ El Registro Único de Proveedores y Contratistas (RUPC) es un conjunto de provee
 
 **Este dataset puede cruzarse y enriquecer otros, aparte de promover sus propios retos.**
 
+## Datasets/Repositorios relacionados
++ catalogo-empresas-sat
++ catalogo-ongs-sat
++ catalogo-empresas-sat
++ compranet
+
 # ¿Dónde están los datos?
 https://datos.gob.mx/busca/dataset/compranet-rupc
 
